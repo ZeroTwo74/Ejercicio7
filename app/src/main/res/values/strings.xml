@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio7.8</string>
+    <string name="Titulo">Manejo intenciones\n</string>
+    <string name="Tarea1">Explicita</string>
+    <string name="Boton2">Implicita\n</string>
+    <string name="boton2">Implicito</string>
+    <string name="ventana2">Teclado\n</string>
+    <string name="Titulos">Tecladito</string>
+    <string name="bton1">1</string>
+    <string name="bton2">2</string>
+    <string name="bton3">3</string>
+    <string name="bton4">4\n</string>
+    <string name="btonDelete">Del</string>
+    <string name="btnC">C</string>
+    <string name="btonF4">4</string>
+    <string name="Values">Numeros:</string>
+</resources>
